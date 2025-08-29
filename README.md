@@ -1,4 +1,5 @@
 # 🩺 Breast Cancer Prediction using Machine Learning
+OPEN THE FILE NAME: "Breast_cancer_predictor.ipnyb" for the main code for the ML model
 ## 📌 Project Overview
 This project is part of the AI/ML Disease Prediction Toolkit. It demonstrates how machine learning can be applied in healthcare to assist in predicting whether a tumor is benign or malignant based on medical features.
 Using the Breast Cancer Wisconsin (Diagnostic) Dataset from Kaggle, I built and compared multiple ML models (Logistic Regression, Random Forest, SVM, KNN). The project follows a complete pipeline from data preprocessing to model training, evaluation, and real-world prediction using user-provided data.
